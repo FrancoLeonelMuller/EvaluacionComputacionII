@@ -1,0 +1,9 @@
+C:\Users\ELECTRONICA\Downloads\Evaluacion Computacion\EvaluacionComputacion\EvaluacionComputacion\bin\Debug\EvaluacionComputacion.exe
+C:\Users\ELECTRONICA\Downloads\Evaluacion Computacion\EvaluacionComputacion\EvaluacionComputacion\bin\Debug\EvaluacionComputacion.pdb
+C:\Users\ELECTRONICA\Downloads\Evaluacion Computacion\EvaluacionComputacion\EvaluacionComputacion\bin\Debug\EvaluacionComputacion.xml
+C:\Users\ELECTRONICA\Downloads\Evaluacion Computacion\EvaluacionComputacion\EvaluacionComputacion\obj\x86\Debug\EvaluacionComputacion.Form1.resources
+C:\Users\ELECTRONICA\Downloads\Evaluacion Computacion\EvaluacionComputacion\EvaluacionComputacion\obj\x86\Debug\EvaluacionComputacion.Resources.resources
+C:\Users\ELECTRONICA\Downloads\Evaluacion Computacion\EvaluacionComputacion\EvaluacionComputacion\obj\x86\Debug\EvaluacionComputacion.vbproj.GenerateResource.Cache
+C:\Users\ELECTRONICA\Downloads\Evaluacion Computacion\EvaluacionComputacion\EvaluacionComputacion\obj\x86\Debug\EvaluacionComputacion.exe
+C:\Users\ELECTRONICA\Downloads\Evaluacion Computacion\EvaluacionComputacion\EvaluacionComputacion\obj\x86\Debug\EvaluacionComputacion.xml
+C:\Users\ELECTRONICA\Downloads\Evaluacion Computacion\EvaluacionComputacion\EvaluacionComputacion\obj\x86\Debug\EvaluacionComputacion.pdb
